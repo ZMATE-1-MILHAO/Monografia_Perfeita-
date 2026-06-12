@@ -1,0 +1,6 @@
+{
+  "name": "Estudio Comercial Academia de Monografias",
+  "description": "Estudio interativo e profissional para visualizacao, customizacao e geracao de comerciais para a Academia de Monografias e Pesquisas Cientificas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
